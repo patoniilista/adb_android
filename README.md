@@ -3,11 +3,6 @@ adb_android
 
 Enables android adb in your python script.
 
-### Project status
-
-[![Build Status](https://travis-ci.org/vmalyi/adb_android.svg?branch=master)](https://travis-ci.org/vmalyi/adb_android)
-[![Analytics](https://ga-beacon.appspot.com/UA-70264103-1/vmalyi/adb_android/README)](https://github.com/igrigorik/ga-beacon)
-
 ### Purpose
 
 This python package is a wrapper for standard android adb implementation. It allows you to execute android adb commands in your python script.
